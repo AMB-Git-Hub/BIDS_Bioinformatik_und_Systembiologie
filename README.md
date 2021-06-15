@@ -1,0 +1,2 @@
+# BIDS_Bioinformatik_und_Systembiologie
+Bioinformatik und Systembiologie SS 2021 Gruppenarbeit
